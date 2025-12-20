@@ -1,0 +1,18 @@
+# 가상환경
+dataset_dev
+
+# 파이썬 캐시
+__pycache__/
+*.py[cod]
+
+# IDE 설정
+.idea
+
+# OS 생성 파일
+Thumbs.db (Windows용)
+
+# 키파일
+kaggle.json
+
+# 데이터 셋
+data
